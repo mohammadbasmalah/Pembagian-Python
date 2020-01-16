@@ -1,0 +1,21 @@
+#Menghitung Pembagian
+Pembilang=int(input("Pembilang = "))
+Penyebut=int(input("Penyebut = "))
+
+if Penyebut==0:
+    if Pembilang==0:
+        print("Tidak Terdifinisi")
+    else:
+        print("Tak Terhingga")
+else:
+    print(Pembilang,"/",Penyebut,"=",Pembilang/Penyebut)#Menghitung Pembagian
+Pembilang=int(input("Pembilang = "))
+Penyebut=int(input("Penyebut = "))
+
+if Penyebut==0:
+    if Pembilang==0:
+        print("Tidak Terdifinisi")
+    else:
+        print("Tak Terhingga")
+else:
+    print(Pembilang,"/",Penyebut,"=",Pembilang/Penyebut)
